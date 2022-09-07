@@ -14,6 +14,7 @@ Tutorials
    Android with Kotlin </tutorial/kotlin>
    Xamarin (iOS and Android) with C# </tutorial/dotnet>
    React Native with JavaScript </tutorial/react-native>	
+   Flutter with Dart </tutorial/flutter>	
 
 .. contents:: On this page
    :local:
@@ -32,6 +33,7 @@ In this section, you will find tutorials for all of the supported platforms:
 - :doc:`Android with Kotlin </tutorial/kotlin>`
 - :doc:`Xamarin (iOS and Android) with C# </tutorial/dotnet>`
 - :doc:`React Native (iOS and Android) with JavaScript </tutorial/react-native>`
+- :doc:`Flutter with Dart </tutorial/flutter>`
 
 .. _template-applications:
 .. _tutorial-task-tracker-create-realm-app:
@@ -46,7 +48,7 @@ and platform. You can
 .. button:: Create a Template App Now
      :uri: https://www.mongodb.com/realm/register?tck=docs_CTA_realm_template_apps
 
-And you can find detailed instructions for installing the template apps in the 
+You can find detailed instructions for installing the template apps in the 
 following pages:
 
 - :ref:`How to Create an App with the App Services UI<create-a-realm-app>`
